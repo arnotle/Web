@@ -6,7 +6,7 @@
 # การจัดโฟล์เดอร์
 Open floder เลือกโฟล์เดอร์ CSS_1
 # install
-install npm express nodemon 
+npm install express nodemon 
 # Run server
 Run terminal: npm run wstart
 
